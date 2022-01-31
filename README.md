@@ -2,6 +2,8 @@
 
 Download the PDF to read the report.
 This is above the ReadMe.txt file.
+Still struggling?
+Link - https://github.com/T0M1G03/Catching-a-Cyber-Criminal-Practical-Cyber-Threat-Intelligence-Hunting-for-Adversary-Infrastructur/blob/main/Catching%20a%20Cyber%20Criminal%20%E2%80%93%20Practical%20Cyber%20Threat%20Intelligence-%20Hunting%20for%20Adversary%20Infrastructure%20.pdf
 
 # Abstract
 
